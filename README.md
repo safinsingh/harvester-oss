@@ -1,5 +1,7 @@
 # Harvester
 
+**NOTE**: the production code behind this repo has been made private so as not to leak any personal data pertaining to players.
+
 This is a Discord bot meant to play along with Maple. It will
 
 - Keep track of and replicate Maple's state internally
